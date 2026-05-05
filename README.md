@@ -12,6 +12,7 @@ Profissional em transição para Análise de Dados com background em atendimento
 |---|---|---|
 | [Análise de Atendimentos SUS/SP](https://github.com/JonasCienciaDados/analise-atendimentos-sus) | Tempo de espera e volume por especialidade e região | Python, pandas, matplotlib |
 | [Análise de Central de Atendimento](https://github.com/JonasCienciaDados/analise-central-atendimento) | TMA e volume por canal, turno, motivo e agente | Python, pandas, matplotlib |
+| [Dashboard Central de Atendimento](https://github.com/JonasCienciaDados/Dashboard-Central-Atendimento) | TMA e volume por canal, turno e agente — Python + Power BI | Python, Power BI |
 ---
 
 ### 🛠️ Ferramentas & Tecnologias
