@@ -42,4 +42,4 @@ Profissional em transição para Análise de Dados com background em atendimento
 
 ---
 
-![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasCienciaDados&show_icons=true&theme=highcontrast)
+![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasCienciaDados&show_icons=true&theme=dark&cache_seconds=1800)
